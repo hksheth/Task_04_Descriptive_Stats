@@ -12,7 +12,7 @@ Each approach outputs descriptive statistics such as count, mean, min/max, stand
 
 | Script              | Description                                 |
 |---------------------|---------------------------------------------|
-| `pure_python_stats.py` | Uses base Python to compute stats (no Pandas) |
+| `pure_python_stats.py` | Uses base Python to compute stats |
 | `pandas_stats.py`      | Uses Pandas to compute and group stats       |
 | `polars_stats.py`      | Uses Polars for fast grouped statistics      |
 
@@ -21,10 +21,9 @@ Each approach outputs descriptive statistics such as count, mean, min/max, stand
 We used the following dataset:
 📁 `2024_fb_posts_president_scored_anon.csv`
 
-📎 Dataset Link (do not commit the file):  
+📎 Dataset Link   
 https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view?usp=sharing
 
-> Place the dataset inside a `data/` folder before running scripts.
 
 ## How to Run
 
