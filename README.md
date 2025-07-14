@@ -18,7 +18,7 @@ Each approach outputs descriptive statistics such as count, mean, min/max, stand
 
 ## Dataset
 
-We used the following dataset:
+I used the following dataset:
 📁 `2024_fb_posts_president_scored_anon.csv`
 
 📎 Dataset Link   
