@@ -1,0 +1,7 @@
+# Ignore virtual env and dataset
+.venv/
+__pycache__/
+data/
+*.csv
+*.tmp
+*.log
